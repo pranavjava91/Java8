@@ -13,5 +13,7 @@ public class ReverseWord {
 	}
 	
 	// joining converts individual elements to a string
+	// map transforms the value of the collection
+	// filter satisfies the predicate and returns new list based on the condition
 
 }
